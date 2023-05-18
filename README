@@ -1,0 +1,57 @@
+# Dice Roller
+
+Dice Roller is a Python program that simulates rolling dice. It allows the user to specify the number of dice and the number of sides on each die, and the program generates random numbers as dice rolls.
+
+## Features
+
+- Simulates rolling multiple dice with customizable sides.
+- Generates random numbers as dice rolls.
+- Allows the user to roll the dice multiple times.
+
+## Installation
+
+1. Make sure you have Python 3 installed on your system. You can download Python from the official website: [python.org](https://www.python.org/downloads/)
+
+2. Clone the repository or download the program files to your local machine.
+
+3. Open a terminal or command prompt and navigate to the directory where the program files are located.
+
+4. Run the program by executing the following command:
+
+"python dice_roller.py"
+
+
+The program will prompt you to enter the number of dice and the number of sides on each die.
+
+5. Enjoy rolling the dice! You can choose to roll the dice multiple times by responding to the prompt.
+
+## Example Usage
+
+Here's an example of how to use the program:
+
+1. Enter the number of dice: 3
+2. Enter the number of sides on each die: 6
+
+Rolling the dice...
+
+You rolled: 4
+You rolled: 2
+You rolled: 6
+
+Do you want to roll the dice again? (yes/no): yes
+
+Enter the number of dice: 1
+Enter the number of sides on each die: 20
+
+Rolling the dice...
+
+You rolled: 17
+
+Do you want to roll the dice again? (yes/no): no
+
+The program exits.
+
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
